@@ -395,12 +395,7 @@ section {
 
 
   .btn-lenguage {
-    display:flex;
-    align-items: center;
-    margin:.2rem;
-    padding: 0.5rem;
     color: #fff;
-    cursor: pointer;
 }
 
   .languageContainer {
@@ -412,7 +407,7 @@ section {
   }
   .languages {
     display:flex;
-    align-items: center;
+    align-items: right;
     margin:.2rem;
     padding: 0.5rem;
     color: #fff;
